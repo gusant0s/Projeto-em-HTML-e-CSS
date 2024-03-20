@@ -46,3 +46,6 @@ footer p {
 nav a:hover {
     color: rgb(3, 143, 101);
 }
+p{
+    text-align: justify;
+}
