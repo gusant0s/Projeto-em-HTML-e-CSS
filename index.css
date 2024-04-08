@@ -1,6 +1,6 @@
-body
-{color: white;
-background-color: rgb(23, 33, 43);}
+body{
+    background-color: #151E26
+}
 
 ul {
     display: flex;
@@ -48,4 +48,13 @@ nav a:hover {
 }
 p{
     text-align: justify;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
 }
